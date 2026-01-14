@@ -58,7 +58,7 @@ export default function HeroSection() {
             />
             <div className="absolute inset-0 bg-linear-to-t from-black/80 via-black/40 to-black/40 rounded-xl"></div>
           </div>
-          <div className="absolute top-12 left-18 text-white px-5 flex justify-between gap-10 z-10">
+          <div className="absolute top-15 left-25 text-white px-5 flex justify-between gap-10 z-10">
             {["home", "about", "ourWork", "Contact"].map((item, idx) => (
               <a key={idx} href="" className="text-lg capitalize">
                 {item}
