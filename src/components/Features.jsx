@@ -57,7 +57,7 @@ export default function Features() {
             viewport={{ once: true }}
             className="leading-[28px] font-[400] text-gray-600"
           >
-            Welcome to Refit, your trusted home improvement experts, dedicated
+            Welcome to Realbizz, your trusted home improvement experts, dedicated
             to transforming homes with precision and care. With years of
             experience in building kitchens, bathrooms, garages, and more, we
             take pride in delivering top-quality craftsmanship and a seamless
