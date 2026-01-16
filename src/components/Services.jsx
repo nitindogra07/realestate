@@ -8,7 +8,7 @@ import {
 import { CookingPot } from "lucide-react";
 export default function Services() {
   return (
-    <div className="h-fit w-full px-30 py-10 ">
+    <div className="h-fit w-full px-30 py-10">
       <motion.div
         initial={{ opacity: 0, y: 50 }}
         whileInView={{ opacity: 1, y: 0 }}
@@ -29,7 +29,7 @@ export default function Services() {
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 , delay : 0.6}}
         viewport={{ once: true }}
-        className="flex"
+        className="flex pb-15"
       >
         <div className="w-1/2">
           <img
